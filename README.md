@@ -53,7 +53,12 @@ Assignment and Communication
 Working the Issue
 > - Log in as a different helpdesk User assigned a task in prior step
 > - Post reply as if you were interacting with sample issue
+> - Create or add attachments if desired
 > - Observe the updates posted to the ticket when changes are made
 
 Resolution
+> - Log in as helpdesk user with appropriate permissions to close tickets
+> - Change tickets status to "Closed" and Post Reply
+> - Observe ticket having moved to "Closed" tab on dashboard
+
 </p>
